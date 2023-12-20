@@ -17,6 +17,6 @@ Este calendario de adviento está diseñado para hacerte la cuenta regresiva par
 
 -  **Frontend:** Desarrollado con React y Next.js para una experiencia de usuario avanzada y eficiente.
 
-
+##
 > [!IMPORTANT]  
 > ¡Aún no se han añadido desafíos!
