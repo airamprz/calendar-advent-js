@@ -2,6 +2,9 @@
 
 ¡Bienvenido/a a mi proyecto de calendario de adviento en JavaScript!
 
+> [!NOTE]  
+> ¡Aún no se han añadido desafíos!
+
 ## Descripción del Proyecto
 
 Este calendario de adviento está diseñado para hacerte la cuenta regresiva para las festividades aún más emocionante. Cada día, descubrirás un nuevo desafío relacionado con JavaScript. ¡Asegúrate de revisar cada día para una experiencia festiva llena de código!
