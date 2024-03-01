@@ -12,11 +12,34 @@ Este calendario de adviento está diseñado para hacerte la cuenta regresiva par
 
 - **Interfaz Gráfica Profesional:** Disfruta de una interfaz de usuario excepcional, diseñada de manera profesional para una experiencia visual atractiva y fácil de usar.
 
-
 ## Tecnologías Utilizadas
 
 -  **Frontend:** Desarrollado con React y Next.js para una experiencia de usuario avanzada y eficiente.
 
+# Instrucciones de Instalación
+
+Sigue estos pasos para instalar y ejecutar el proyecto localmente:
+
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/airamprz/basic-task-management.git
+
+2. Navega al directorio del proyecto:
+   ```bash
+   cd basic-task-management
+
+3. Instala las dependencias utilizando npm:
+   ```bash
+   npm install
+
+4. Inicia el servidor de desarrollo:
+   ```bash
+   npm run dev
+
+5. Abre tu navegador y visita http://localhost:3000 para ver la aplicación.
+
+¡Listo! Ahora deberías tener el proyecto instalado y en ejecución en tu entorno local. ¡Disfruta organizando tus tareas! 🚀.
+  
 ##
 > [!IMPORTANT]  
 > ¡Aún no se han añadido desafíos!
