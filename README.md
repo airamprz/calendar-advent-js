@@ -22,11 +22,11 @@ Sigue estos pasos para instalar y ejecutar el proyecto localmente:
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/airamprz/basic-task-management.git
+   git clone https://github.com/airamprz/calendar-advent-js.git
 
 2. Navega al directorio del proyecto:
    ```bash
-   cd basic-task-management
+   cd calendar-advent-js
 
 3. Instala las dependencias utilizando npm:
    ```bash
