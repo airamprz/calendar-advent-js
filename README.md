@@ -38,7 +38,7 @@ Sigue estos pasos para instalar y ejecutar el proyecto localmente:
 
 5. Abre tu navegador y visita http://localhost:3000 para ver la aplicación.
 
-¡Listo! Ahora deberías tener el proyecto instalado y en ejecución en tu entorno local. ¡Disfruta organizando tus tareas! 🚀.
+¡Listo! Ahora deberías tener el proyecto instalado y en ejecución en tu entorno local. ¡Disfruta de este calendario de adviento! 🚀.
   
 ##
 > [!IMPORTANT]  
